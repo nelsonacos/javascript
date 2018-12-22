@@ -14,6 +14,7 @@ He completado el curso de javascript30.com es un gran curso donde he aprendido u
 - [Ordenar Articulos](https://github.com/nelsonacos/javascript/tree/master/js-ordenar-articulos)
 - [Css Variables](https://github.com/nelsonacos/javascript/tree/master/css-variables)
 - [Click Arrastrar](https://github.com/nelsonacos/javascript/tree/master/js-click-arrastrar)
+- [Canvas Divertido](https://github.com/nelsonacos/javascript/tree/master/js-divertido-canvas-html5)
 
 ## Ui / Ux
 
